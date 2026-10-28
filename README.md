@@ -1,7 +1,7 @@
 <h1 align="center">Hola... I'm Imam Riyadi</h1>
 
 <p align="center">
-  Fresh Graduate · <b>Full-Stack Developer</b> · Aspiring <b>AI/ML Engineer</b> · Cybersecurity Enthusiast
+  Fresh Graduate · Full-Stack Developer · Aspiring AI/ML Engineer · Cybersecurity Enthusiast
 </p>
 
 <p align="center">
@@ -23,12 +23,12 @@
 
 ## About Me
 
-I'm a Fresh Graduate in Informatics Engineering from Universitas Perjuangan Tasikmalaya, focused on **AI/ML Engineering** and **Cybersecurity**. I build modern web applications as an independent full-stack developer and enjoy solving problems with data, from operations and academic data management to document verification.
+Fresh Graduate in Informatics Engineering from Universitas Perjuangan Tasikmalaya, with a focus on Machine Learning and Deep Learning. I build modern web applications as an independent full-stack developer, while deepening my knowledge of cybersecurity.
 
-**Currently open to:**
-- **Junior AI/ML Engineer** (internship or full-time)
-- **Full-Stack Developer** (freelance or contract)
-- **Data Operations** and **Technology Administration** roles
+Open to:
+- AI/ML & Data: Internship or Junior AI/ML Engineer
+- Full-Stack: Freelance or contract web development
+- Administration: Document layouting and formatting
 
 ---
 
@@ -90,8 +90,6 @@ I'm a Fresh Graduate in Informatics Engineering from Universitas Perjuangan Tasi
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mmryd/mmryd/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
----
 
 ---
 
