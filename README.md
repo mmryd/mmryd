@@ -1,22 +1,94 @@
-# Hola... I'm Imam Riyadi
+<h1 align="center">Hola... I'm Imam Riyadi</h1>
 
-Fresh Graduate in Informatics Engineering from Universitas Perjuangan Tasikmalaya with a strong enthusiasm for Cybersecurity and AI/ML. 
+<p align="center">
+  Fresh Graduate · <b>Full-Stack Developer</b> · Aspiring <b>AI/ML Engineer</b> · Cybersecurity Enthusiast
+</p>
 
-Experienced in freelance web development alongside in operational administration, academic data management, and document verification.
-
-Proficient in systematic problem solving using tools such as Excel, Sheets, and Python. 
-
-Open to entry-level roles, internship, part-time, full-time or freelance collaborations across Web Development, Data Operations, and Technology Administration.
+<p align="center">
+  <a href="mailto:imaammriyadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mmryd">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mmryd_/">
+    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@mm_ryd">
+    <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000" alt="YouTube" />
+  </a>
+</p>
 
 ---
 
-### GitHub Statistic
+## About Me
 
-<p align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/mmryd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmryd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mmryd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmryd&layout=compact&theme=algolia" alt="Top Languages" />
-  </a>
+I'm a Fresh Graduate in Informatics Engineering from Universitas Perjuangan Tasikmalaya, focused on **AI/ML Engineering** and **Cybersecurity**. I build modern web applications as an independent full-stack developer and enjoy solving problems with data, from operations and academic data management to document verification.
+
+**Currently open to:**
+- **Junior AI/ML Engineer** (internship or full-time)
+- **Full-Stack Developer** (freelance or contract)
+- **Data Operations** and **Technology Administration** roles
+
+---
+
+## Skills & Tools
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://cdn.simpleicons.org/python/FFFFFF" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" height="40" alt="JavaScript" />
 </p>
+
+<p align="center">
+  <b>AI & Machine Learning</b><br/>
+  <img src="https://cdn.simpleicons.org/pytorch/FFFFFF" height="40" alt="PyTorch" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FFFFFF" height="40" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/keras/FFFFFF" height="40" alt="Keras" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/FFFFFF" height="40" alt="Scikit-learn" />
+  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="40" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="40" alt="NumPy" />
+</p>
+
+<p align="center">
+  <b>Web Development</b><br/>
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" height="40" alt="HTML" />
+  <img src="https://cdn.simpleicons.org/css/FFFFFF" height="40" alt="CSS" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" height="40" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/bun/FFFFFF" height="40" alt="Bun" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="Next.js" />
+</p>
+
+<p align="center">
+  <b>Database & Deployment</b><br/>
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/supabase/FFFFFF" height="40" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" alt="Vercel" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmryd&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=D0D0D0&icon_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mmryd&theme=transparent&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=D0D0D0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmryd/mmryd/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmryd/mmryd/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mmryd/mmryd/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
