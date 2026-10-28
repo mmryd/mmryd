@@ -92,3 +92,13 @@ I'm a Fresh Graduate in Informatics Engineering from Universitas Perjuangan Tasi
 </p>
 
 ---
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmryd&label=Profile%20Views&color=000000&style=flat-square&base=0" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting. Let's build something meaningful together.</sub>
+</p>
